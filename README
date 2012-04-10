@@ -1,0 +1,4 @@
+Crimson Backup is the backup system which integrates with the Crimson Pyramid system.  Due to its complexity, it's a separate component.  
+You must use the Crimson Pyramid system - and, in particular, have a CP database - in order to use Crimson Backup.  You need not, however, use Crimson Backup to use the other components of Crimson Pyramid.  
+
+You can learn more about Crimson Pyramid at http://www.redtriangletc.org/crimsonpyramid.php

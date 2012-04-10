@@ -27,7 +27,19 @@
 #include <string.h>
 #include <errno.h>
 
-/* cb.c */
+/* cbackup.c */
+extern unsigned int options;
+
 /* config.c */
+struct _config
+{
+	
+};
+typedef struct _config Config;
+extern Config *conf;
+extern char loadedconf[512];
+
 /* log.c */
+
+
 /* server.c */
